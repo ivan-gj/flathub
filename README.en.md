@@ -2,6 +2,11 @@
 
 [Leer en español](README.md)
 
+> [!WARNING]
+> **This repository has been archived.** AutoFirma is now available on Flathub.
+> Please use the Flathub repository instead: **[flathub/es.gob.afirma](https://github.com/flathub/es.gob.afirma)**
+
+
 ---
 
 ## Required actions for most browsers
@@ -11,7 +16,7 @@ We recommend reading the [official FAQ] for instructions to manually install it.
 
 You can find the certificate file on the following path:
 ```
-~/.var/app/es.gob.afirma/.afirma/Autofirma/Autofirma_ROOT.cer
+~/.afirma/Autofirma/Autofirma_ROOT.cer
 ```
 
 You can check if your setup is working on the following websites: 

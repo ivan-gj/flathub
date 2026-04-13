@@ -2,6 +2,10 @@
 
 [Read in English](README.en.md)
 
+> [!WARNING]
+> **Este repositorio está archivado.** Autofirma ya está disponible en Flathub.
+> Por favor, usa el repositorio de Flathub en su lugar: **[flathub/es.gob.afirma](https://github.com/flathub/es.gob.afirma)**
+
 ---
 
 ## Acciones necesarias para la mayoria de navegadores
@@ -11,7 +15,7 @@ Autofirma requiere instalar un certificado en el navegador que vayas a utilizar.
 Puedes encontrar el archivo del certificado a instalar en la siguiente ubicacion:
 
 ```
-~/.var/app/es.gob.afirma/.afirma/Autofirma/Autofirma_ROOT.cer
+~/.afirma/Autofirma/Autofirma_ROOT.cer
 ```
 
 Puedes comprobar tu configuracion en las siguientes paginas: 
